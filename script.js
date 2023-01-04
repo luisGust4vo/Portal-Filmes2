@@ -6,7 +6,7 @@ const IMAGE_SIZE_W780 = "w780";
 const IMAGE_SIZE_W1280 = "w1280";
 const IMAGE_SIZE_ORIGINAL = "original";
 const MESSAGE_ERROR = 'Ocorreu um erro inesperado. Tente novamente mais tarde.';
-
+d
 async function getPopularMovies(page) {
     page = page ? page : 1;
     try {
